@@ -1,6 +1,6 @@
 # Hosting on Azure Web Services
 
-[![Build status](https://thomasvjames.visualstudio.com/azure-dotnet-core-hosted-example/_apis/build/status/azure-dotnet-core-hosted-example-ASP.NET%20Core-CI)](https://thomasvjames.visualstudio.com/azure-dotnet-core-hosted-example/_build/latest?definitionId=-1)
+[![Build Status](https://thomasvjames.visualstudio.com/azure-dotnet-core-hosted-example/_apis/build/status/azure-dotnet-core-hosted-example-CI?branchName=master)](https://thomasvjames.visualstudio.com/azure-dotnet-core-hosted-example/_build/latest?definitionId=2&branchName=master)
 
 * Install the azure cli on macOS [azure-cli]
   * `brew update && brew install azure-cli`
