@@ -1,6 +1,11 @@
 pool:
   name: Hosted Ubuntu 1604
 
+variables:
+  BuildConfiguration: 'Release'
+  Parameters.RestoreBuildProjects: '**/*.csproj'
+  Parameters.TestProjects: '**/*[Tt]ests/*.csproj'
+
 steps:
 - task: DotNetCoreCLI@2
   displayName: Restore
