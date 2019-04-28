@@ -32,3 +32,4 @@
 [dotnet-sdk-21]: https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.1.603-macos-x64-installer
 [getting-started]: https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-dotnetcore
 [app-service-plans]: https://azure.microsoft.com/en-au/pricing/details/app-service/windows/
+[pipelines]: https://docs.microsoft.com/en-au/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=tfs-2018-2
